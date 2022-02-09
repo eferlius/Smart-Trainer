@@ -1,0 +1,1 @@
+These are the general use scripts, they're renamend with zz_... in order to be easily copied and replaced in the other folders

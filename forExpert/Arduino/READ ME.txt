@@ -1,0 +1,9 @@
+read_2pot: writes at the specified frequency, on the specified serialPort, the elapsed time in microseconds and the values of the 2 potentiometers. It is useful to test the 4 possible movements, as associated to the corresponding matlab file
+
+pot1 pot2 mov
+ L    L    1 - close
+ L    H    2 - open
+ H    L    3 - int
+ H    H    4 - ext
+
+read_4EMG: writes at the specified frequency, on the specified serialPort, the elapsed time in microseconds and the values of the 4 EMGs
